@@ -53,6 +53,7 @@
   height: 100px;
   background-color: yellow;
   margin-left:5px;
+  vertical-align: top;
 }
 
 .comment-btns{
@@ -61,4 +62,5 @@
   height: 100px;
   background-color: green;
   margin-left:5px;
+  vertical-align: top;
 }
